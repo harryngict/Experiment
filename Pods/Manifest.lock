@@ -1,0 +1,16 @@
+PODS:
+  - Experiment (0.0.1)
+
+DEPENDENCIES:
+  - Experiment (from `../`)
+
+EXTERNAL SOURCES:
+  Experiment:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Experiment: 4ba7e5df118b7d74e1c5946dbd5049206547781e
+
+PODFILE CHECKSUM: ae5f3f441361a71aca018cf3397e018d29c7aa27
+
+COCOAPODS: 1.14.3

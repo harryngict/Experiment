@@ -1,0 +1,26 @@
+{
+  "name": "Experiment",
+  "version": "0.0.1",
+  "summary": "Experiment TBD",
+  "description": "The \"Experiment\" TBD",
+  "homepage": "https://github.com/harryngict/Experiment",
+  "source": {
+    "git": "git@github.com:harryngict/Experiment.git",
+    "tag": "0.0.1"
+  },
+  "authors": {
+    "Hoang Nguyen": "harryngict@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "text": "Copyright (c) 2023"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "requires_arc": true,
+  "static_framework": true,
+  "source_files": "Sources/Experiment/**/**/*.{swift}",
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+framework module Experiment {
+  umbrella header "Experiment-umbrella.h"
+
+  export *
+  module * { export * }
+}
